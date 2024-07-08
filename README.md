@@ -20,7 +20,8 @@ This project provides a FastAPI microservice for performing OCR on uploaded imag
 
 2. **Create a virtual environment**:
    ```bash
-   python -m venv mindee_env
+   pip install virtualenv
+   virtualenv mindee_env
    ```
 
 3. **Activate the virtual environment**:
