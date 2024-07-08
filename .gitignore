@@ -1,7 +1,15 @@
 __pycache__/
 *.pyc
 uploaded_files/
+mindee_env/
+
+# Exclude all image and PDF files
 *.png
 *.pdf
 *.jpeg
-mindee_env/
+
+# Explicitly include files in the samples directory
+!samples/
+!samples/*.png
+!samples/*.pdf
+!samples/*.jpeg
