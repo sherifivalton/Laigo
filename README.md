@@ -6,7 +6,7 @@ This project provides a FastAPI microservice for performing OCR on uploaded imag
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/sherifivalton/Laigo)
    cd <repository-name>
    ```
 
